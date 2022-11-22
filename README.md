@@ -4,6 +4,7 @@ Resolución del desafío SUNAI para aplicar a Python Developer Jr.
 El desafío fue creado en un cuaderno Jupyter usando google colab. Para acceder a los archivos, 
 se ha creado una celda que implementa la conexión a Google Drive. Por otro lado, es posible ejecutar 
 el cuaderno de forma local obviando la celda anteriormende mencionada. 
+En la carpeta llamada 'Data' se encuentran los archivos xlsx usados, ademas de dos carpetas, charts contiene los graficos generados y text_files los archivos .txt.
 
 ## Antes de ejecutar
 Es necesario definir tres directorios: 
