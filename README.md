@@ -1,8 +1,8 @@
 # challenge-python-jr
 Resolución del desafío SUNAI para aplicar a Python Developer Jr.
 
-El desafío fue desarrollado en un cuaderno Jupyter usando google colab. Para acceder a los archivos, 
-se ha creado una celda que implementa la conexión a Google Docs. De la misma forma, es posible ejecutar 
+El desafío fue creado en un cuaderno Jupyter usando google colab. Para acceder a los archivos, 
+se ha creado una celda que implementa la conexión a Google Drive. Por otro lado, es posible ejecutar 
 el cuaderno de forma local obviando la celda anteriormende mencionada. 
 
 ## Antes de ejecutar
@@ -11,4 +11,8 @@ Es necesario definir tres directorios:
 - char_Dir : Camino al directorio donde se almacenarán los graficos generados.
 - text_Dir : Para almacenar archivos .txt.
 
-PD. Recomiendo revisar mis otros repositorios. 😉
+##Consideraciones sobre el desafío
+
+Si bien el formato xlsx es comunmente utilizado para las operaciones del día a día, también peca de desventajas cruciales, como el requerir más almacenamiento y mucho espacio de memoria, además de comprometer el tiempo de ejecución en el programa. Para evitar esto, existen [formatos de archivo](https://towardsdatascience.com/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f) que proporcionan operaciones de lectura y escritura significativamente más rápidas que un xlsx.
+
+PD. Tambien pueden revisar mis otros repositorios. 😉

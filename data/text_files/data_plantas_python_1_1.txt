@@ -1,0 +1,5 @@
+Id planta:218
+Suma Diaria del active power:3664916.0
+Valor máximo del active energy:76978296
+valor mínimo del active energy:46870800
+/content/drive/MyDrive/Github/challenge-python-jr/data/charts/data_plantas_python_1_1.png
