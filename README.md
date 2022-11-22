@@ -12,7 +12,7 @@ Es necesario definir tres directorios:
 - char_Dir : Camino al directorio donde se almacenarán los graficos generados.
 - text_Dir : Para almacenar archivos .txt.
 
-##Consideraciones sobre el desafío
+## Consideraciones sobre el desafío
 
 Si bien el formato xlsx es comunmente utilizado para las operaciones del día a día, también peca de desventajas cruciales, como el requerir más almacenamiento y mucho espacio de memoria, además de comprometer el tiempo de ejecución en el programa. Para evitar esto, existen [formatos de archivo](https://towardsdatascience.com/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f) que proporcionan operaciones de lectura y escritura significativamente más rápidas que un xlsx.
 
